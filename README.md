@@ -1,3 +1,11 @@
+# Firebase Deploy
+ - Hosting URL: https://linkedin-clone-3dccb.web.app
+ 
+# Project Feature
+ - use Cloud Firebase to store data, user can post their infomation and store in the database
+ - use Firebase Auth, user can signin/signup with Email & Password
+
+
 # Getting Started with Create React App and Redux
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
