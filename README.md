@@ -2,8 +2,9 @@
  - Hosting URL: https://linkedin-clone-3dccb.web.app
  
 # Project Feature
- - use Cloud Firebase to store data, user can post their infomation and store in the database
- - use Firebase Auth, user can signin/signup with Email & Password
+ - Use Cloud Firebase to store data, user can post their infomation and store in the database
+ - Use Firebase Auth, user can signin/signup with Email & Password
+ - Use Redux to store the user info and pass to different needed
 
 
 # Getting Started with Create React App and Redux
