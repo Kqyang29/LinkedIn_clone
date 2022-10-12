@@ -1,5 +1,5 @@
 # Firebase Deploy
- - Hosting URL: https://linkedin-clone-3dccb.web.app
+ - Hosting URL: https://linkedin-clone-3dccb.web.app （need to deploy again）
  
 # Project Feature
  - Use Cloud Firebase to store data, user can post their infomation and store in the database
