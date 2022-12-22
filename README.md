@@ -1,4 +1,4 @@
-# Firebase Deploy
+# Vercel Deploy
  - Hosting URL: https://react-linked-in-clone-lilac.vercel.app/
  
 # Project Feature
